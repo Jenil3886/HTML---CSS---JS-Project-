@@ -10,7 +10,7 @@ for (let i = 0; i < buttonsEl.length; i++) {
     } else if (buttonValue === "=") {
       calculateResult();
     } else {
-      appendValue(buttonValue);
+      appendValue(buttonValue);5
     }
   });
 }
